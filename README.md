@@ -1,19 +1,24 @@
 # 👋 Olá! Eu sou o Filipe Minato
 
-Sou um profissional em transição de carreira, com mais de 15 anos de experiência na área comercial, e atuei como consultor de vendas em marcas como Suzuki e Toyota, onde fui premiado nacionalmente por desempenho. 3 anos seguidos entre os top10 vendedores Toyota com a premiação "Mundo de Prêmios" e 1 ano recebendo o reconhecimento na Suzuki. Além de diversos outros prêmios individuais devidamente guardados para comprovação. Aprendi sobre disciplina, metas, excelência e foco em resultados — valores que agora aplico na minha nova paixão: a programação. Também tive uma experiência internacional de 3 anos morando e trabalhando na Argentina, na cidade de Rosario. Falo espanhol fluentemente, e tenho inglês nível B1.
 
-Conheci a programação quando procurava algo que pudesse automatizar operações na bolsa de valores (minha outra paixão). Desde meu primeiro "Hello World" em Python, descobri que ali havia algo transformador. Estudo programação desde 2021 e já concluí 3 cursos de Python, além de desenvolver aplicações próprias com interfaces gráficas usando Tkinter. Todos os projetos que estão no meu GitHub foram criados para resolver problemas reais do dia a dia, com foco em usabilidade, lógica limpa e propósito.
+## RESUMO:
 
-Meu objetivo é iniciar profissionalmente como desenvolvedor, em equipes experientes que possam agregar conhecimento, e contribuir com equipes que valorizam curiosidade, dedicação e entrega constante. Tenho especial interesse por desenvolvimento com Python de automações e aplicações com impacto prático.
+Sou um profissional em transição de carreira, com mais de 10 anos de experiência na área comercial em grandes marcas como Santander, Suzuki e Toyota. Fui premiado nacionalmente por diversas vezes. Nos últimos 3 anos consecutivos fiquei entre os top10 vendedores Toyota com a premiação nacional "Mundo de Prêmios". Além disso, possuo diversos outros prêmios individuais devidamente guardados para comprovação. Como vendedor de alto rendimento, aprendi sobre disciplina, gestão de tempo, automotivação, excelência e foco em resultados — valores que agora aplico na programação. Também tive uma experiência internacional de 3 anos morando e trabalhando na Argentina, na cidade de Rosario. Falo espanhol fluentemente, e tenho inglês nível B1.
+
+Conheci o Python em 2021, enquanto buscava automatizar operações financeiras, e desde então venho me dedicando ao desenvolvimento de soluções que resolvem problemas reais do dia a dia. Minha atuação é pautada pela criação de sistemas com lógica limpa, dinâmica amigável ao usuário e propósitos reais. Tenho experiência na construção de aplicações com interfaces gráficas usando Tkinter, integração com APIs e manipulação de dados com bibliotecas como requests, Pillow e datetime.
+
+Meu objetivo é conseguir uma vaga de trabalho na área de tecnologia, para fazer parte de equipes experientes com as quais possa aprender e contribuir. Busco ambientes que valorizem a curiosidade, o comprometimento e a entrega contínua — onde eu possa aplicar tanto as minhas habilidades em Python quanto as habilidades de comunicação e alto rendimento acumuladas na carreira comercial.
+
+Todos os projetos disponíveis no meu GitHub foram desenvolvidos com foco na entrega de valor prático. Eles representam meu comprometimento com aprendizado constante, eficiência e aplicação de soluções simples para problemas concretos.
 
 ---
 
-## 💡 Minha trajetória
+## 💡 Minha trajetória na tecnologia
 
 - 🧠 Sempre fui apaixonado por tecnologia, economia e programação. Meu primeiro contato com Python foi buscando algo que automatizasse investimentos na bolsa de valores.
 - 💻 Desde 2021 venho estudando **Python**, com 3 cursos concluídos — o mais recente em 2023.
-- 🧪 Embora ainda não tenha experiência profissional como programador, **desenvolvi projetos próprios para resolver problemas reais do dia a dia**.
-- 🚀 Migrei de vez para o universo da programação com foco em **desenvolvimento de interfaces com Tkinter**, **automação de tarefas**, e **aplicações desktop simples e úteis**. Coisas que mostrem o que eu aprendi nesse periodo.
+- 🧪 Embora ainda não tenha experiência profissional em empresas como programador, **desenvolvi projetos próprios para resolver problemas reais do dia a dia**.
+- 🚀 Migrei de vez para o universo da programação com foco no desenvolvimento de coisas que mostrem o que eu aprendi nesse periodo.
 
 ---
 
