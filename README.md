@@ -1,6 +1,10 @@
 # 👋 Olá! Eu sou o Filipe Minato
 
-Sou um profissional em transição de carreira, com uma base sólida construída em mais de 9 anos como consultor de vendas automotivas — onde atuei com excelência em grandes marcas como **Suzuki** e **Toyota**. Antes disso, tive 3 anos de experiência internacional morando e trabalhando na Argentina, na cidade de Rosario. Hoje, sigo com a mesma dedicação, mas com um novo foco: **desenvolvimento de software**.
+Sou um profissional em transição de carreira, com mais de 15 anos de experiência na área comercial, e atuei como consultor de vendas em marcas como Suzuki e Toyota, onde fui premiado nacionalmente por desempenho. 3 anos seguidos entre os top10 vendedores Toyota com a premiação "Mundo de Prêmios" e 1 ano recebendo o reconhecimento na Suzuki. Além de diversos outros prêmios individuais devidamente guardados para comprovação. Aprendi sobre disciplina, metas, excelência e foco em resultados — valores que agora aplico na minha nova paixão: a programação. Também tive uma experiência internacional de 3 anos morando e trabalhando na Argentina, na cidade de Rosario. Falo espanhol fluentemente, e tenho inglês nível B1.
+
+Conheci a programação quando procurava algo que pudesse automatizar operações na bolsa de valores (minha outra paixão). Desde meu primeiro "Hello World" em Python, descobri que ali havia algo transformador. Estudo programação desde 2021 e já concluí 3 cursos de Python, além de desenvolver aplicações próprias com interfaces gráficas usando Tkinter. Todos os projetos que estão no meu GitHub foram criados para resolver problemas reais do dia a dia, com foco em usabilidade, lógica limpa e propósito.
+
+Meu objetivo é iniciar profissionalmente como desenvolvedor, em equipes experientes que possam agregar conhecimento, e contribuir com equipes que valorizam curiosidade, dedicação e entrega constante. Tenho especial interesse por desenvolvimento com Python de automações e aplicações com impacto prático.
 
 ---
 
